@@ -1,9 +1,11 @@
-package com.funnygerman.kotlinweather
+package com.funnygerman.kotlinweather.activities
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.support.v7.widget.LinearLayoutManager
 import android.support.v7.widget.RecyclerView
+import com.funnygerman.kotlinweather.R
+import com.funnygerman.kotlinweather.adapaters.ForecastListAdapter
 
 class MainActivity : AppCompatActivity() {
 
