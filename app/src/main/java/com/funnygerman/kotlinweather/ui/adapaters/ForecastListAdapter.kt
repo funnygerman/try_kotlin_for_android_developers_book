@@ -1,4 +1,4 @@
-package com.funnygerman.kotlinweather.adapaters
+package com.funnygerman.kotlinweather.ui.adapaters
 
 import android.support.v7.widget.RecyclerView
 import android.view.ViewGroup

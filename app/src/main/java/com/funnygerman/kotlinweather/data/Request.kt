@@ -1,4 +1,4 @@
-package com.funnygerman.kotlinweather
+package com.funnygerman.kotlinweather.data
 
 import android.util.Log
 import java.net.URL

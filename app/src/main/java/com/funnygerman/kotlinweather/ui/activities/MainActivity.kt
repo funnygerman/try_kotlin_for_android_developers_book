@@ -1,12 +1,12 @@
-package com.funnygerman.kotlinweather.activities
+package com.funnygerman.kotlinweather.ui.activities
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.support.v7.widget.LinearLayoutManager
 import android.support.v7.widget.RecyclerView
 import com.funnygerman.kotlinweather.R
-import com.funnygerman.kotlinweather.Request
-import com.funnygerman.kotlinweather.adapaters.ForecastListAdapter
+import com.funnygerman.kotlinweather.data.Request
+import com.funnygerman.kotlinweather.ui.adapaters.ForecastListAdapter
 import org.jetbrains.anko.doAsync
 import org.jetbrains.anko.longToast
 import org.jetbrains.anko.uiThread
